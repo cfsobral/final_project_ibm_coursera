@@ -7,7 +7,7 @@ library(httr)
 current_weather_url <- 'https://api.openweathermap.org/data/2.5/weather'
 
 # need to be replaced by your real API key
-your_api_key <- "6989b155391e8b656141043f220de220"
+your_api_key <- "your_api_key"
 # Input `q` is the city name
 # Input `appid` is your API KEY, 
 # Input `units` are preferred units such as Metric or Imperial
